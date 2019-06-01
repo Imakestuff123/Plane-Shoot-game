@@ -15,6 +15,7 @@ Mit License
 ## Acknowledgements
 
 - MegaPhilX - The missile sprite I used is from his game Megaman Unlimited
+- Capcom - The song at the end is a piece from some megaman game, don't remember where
 
 ## Controls
 
