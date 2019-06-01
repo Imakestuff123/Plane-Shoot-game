@@ -191,14 +191,6 @@
             }
         },
         {
-            "Key": "50911806-f4ab-49fe-b24b-cac00990780f",
-            "Value": {
-                "id": "f02e76d7-0dd9-43f7-adc5-26c7902daebb",
-                "resourcePath": "sprites\\spr_kms\\spr_kms.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "566839d0-cfa9-4da2-b0d0-b47ac5c4fa7a",
             "Value": {
                 "id": "99d2021f-eb0a-498b-8ac1-3b3053277f22",
